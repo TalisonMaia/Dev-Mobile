@@ -1,11 +1,16 @@
+import {AuthDetails} from '../modules/login/hooks/useLogin';
+
 export declare global {
-    namespace ReactNavigation {
-        interface RootParamList {
-            Profile: undefined;
-            Login: undefined;
-            View: undefined;
-            Cart: undefined;
-            Payment: undefined;
-        }
+  namespace ReactNavigation {
+    interface RootParamList {
+      Profile: unknown;
+      Login: unknown;
+      View: unknown;
+      Cart: unknown;
+      Payment: unknown;
+      Perfil: unknown;
+      Add: unknown;
+      Cadastro: unknown;
     }
+  }
 }

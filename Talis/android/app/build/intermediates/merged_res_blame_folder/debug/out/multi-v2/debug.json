@@ -430,6 +430,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\Aluno\\Downloads\\aulaDevMobile\\aulaDevMobile\\android\\app\\build\\generated\\res\\resValues\\debug\\values\\gradleResValues.xml",
+                    "from": {
+                        "startLines": "6,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "159,265",
+                        "endColumns": "63,68",
+                        "endOffsets": "218,329"
+                    },
+                    "to": {
+                        "startLines": "657,658",
+                        "startColumns": "4,4",
+                        "startOffsets": "41723,41787",
+                        "endColumns": "63,68",
+                        "endOffsets": "41782,41851"
+                    }
+                },
+                {
                     "source": "C:\\Users\\Aluno\\.gradle\\caches\\transforms-3\\cd3884f773085f1dee1d35041010e253\\transformed\\jetified-startup-runtime-1.0.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2",
@@ -485,42 +502,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Aluno\\Talis\\android\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "17",
-                        "endColumns": "50",
-                        "endOffsets": "63"
-                    },
-                    "to": {
-                        "startLines": "694",
-                        "startColumns": "4",
-                        "startOffsets": "44325",
-                        "endColumns": "50",
-                        "endOffsets": "44371"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Aluno\\Talis\\android\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "57",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "273"
-                    },
-                    "to": {
-                        "startLines": "824",
-                        "startColumns": "4",
-                        "startOffsets": "59853",
-                        "endLines": "827",
-                        "endColumns": "12",
-                        "endOffsets": "60031"
-                    }
-                },
-                {
                     "source": "C:\\Users\\Aluno\\.gradle\\caches\\transforms-3\\75e4635b66fa4e4e84e71b52579837ce\\transformed\\core-1.7.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,89,90,94,95,96,97,104,114,162,194,231",
@@ -554,6 +535,25 @@
                         "startOffsets": "40326",
                         "endColumns": "42",
                         "endOffsets": "40364"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Aluno\\Downloads\\aulaDevMobile\\aulaDevMobile\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "273"
+                    },
+                    "to": {
+                        "startLines": "824",
+                        "startColumns": "4",
+                        "startOffsets": "59853",
+                        "endLines": "827",
+                        "endColumns": "12",
+                        "endOffsets": "60031"
                     }
                 },
                 {
@@ -629,20 +629,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Aluno\\Talis\\android\\app\\build\\generated\\res\\resValues\\debug\\values\\gradleResValues.xml",
+                    "source": "C:\\Users\\Aluno\\Downloads\\aulaDevMobile\\aulaDevMobile\\android\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
-                        "startLines": "6,8",
-                        "startColumns": "4,4",
-                        "startOffsets": "159,265",
-                        "endColumns": "63,68",
-                        "endOffsets": "218,329"
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "50",
+                        "endOffsets": "63"
                     },
                     "to": {
-                        "startLines": "657,658",
-                        "startColumns": "4,4",
-                        "startOffsets": "41723,41787",
-                        "endColumns": "63,68",
-                        "endOffsets": "41782,41851"
+                        "startLines": "694",
+                        "startColumns": "4",
+                        "startOffsets": "44325",
+                        "endColumns": "50",
+                        "endOffsets": "44371"
                     }
                 },
                 {
